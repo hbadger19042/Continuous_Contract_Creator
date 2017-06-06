@@ -1,0 +1,17 @@
+#Eclipse user-specific files
+*.project
+*.pydevproject
+*.cache
+*.settings
+
+*.log
+
+architecture
+build
+dist
+qtui
+rollover_env
+
+
+__pycache__
+*.pyc
