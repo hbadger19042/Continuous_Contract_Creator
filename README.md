@@ -1,6 +1,6 @@
 # Continuous Contract Creator #
 
-This program makes continuous contractor for quantitative analysis. 
+This program makes continuous contract for quantitative analysis. 
 
 ## Purpose ##
 Futures contract are short-lived comparing to stock, usually less than a year. 
